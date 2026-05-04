@@ -12,7 +12,7 @@ This project examines rainfall-induced microbial resuscitation dynamics in **cya
 
 | Data type | Repository | Accession |
 |---|---|---|
-| Raw 16S sequences (.fastq.gz) | NCBI SRA | SRRXXXXXXX |
+| Raw 16S gene sequences (.fastq.gz) | NCBI SRA | SRRXXXXXXX |
 | BioProject | NCBI BioProject | PRJNA1458593 |
 | BioSamples | NCBI BioSamples | SAMXXXXXXX |
 
