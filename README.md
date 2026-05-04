@@ -21,7 +21,9 @@ This project examines rainfall-induced microbial resuscitation dynamics in **cya
 
 **16S_resuscitation_pipeline.R** contains the 16S DADA2 Pipeline, 97% ASV clustering and taxonomy assignment
 
+**16S_resuscitation_analysis.R** contains the 16S data analysis, including statistical analyses and plots.
 
+**ANCOMBC-2_data_analysis.R** contains the ANCOMBC-2 output data analysis supporting figures 4 and 5.
 
 ## Citation
 
