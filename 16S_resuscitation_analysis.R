@@ -16,7 +16,7 @@ library(grid)
 
 # ---- Load phyloseq_resuscitation.rds object ----
 
-setwd("C:/Users/Raul/OneDrive - The Pennsylvania State University/Documents/MICROBIOCLIM/MICROBIOCLIM/Experimental design/Objective 1/Manuscript_resuscitation/Submission_ISME_journal/GitHub/data/filtered")
+setwd()
 
 ps <- readRDS("phyloseq_resuscitation.rds")
 
