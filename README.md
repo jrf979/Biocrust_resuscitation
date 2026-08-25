@@ -12,9 +12,7 @@ This project examines rainfall-induced microbial resuscitation dynamics in **cya
 
 | Data type | Repository | Accession |
 |---|---|---|
-| Raw 16S gene sequences (.fastq.gz) | NCBI SRA | SRRXXXXXXX |
 | BioProject | NCBI BioProject | PRJNA1458593 |
-| BioSamples | NCBI BioSamples | SAMXXXXXXX |
 
 ## Code available
 **Cutadap_resuscitation.sh** contains the pipeline for primer trimming using cutadapt.
@@ -23,7 +21,7 @@ This project examines rainfall-induced microbial resuscitation dynamics in **cya
 
 **16S_resuscitation_analysis.R** contains the 16S data analysis, including statistical analyses and plots.
 
-**ANCOMBC-2_data_analysis.R** contains the ANCOMBC-2 output data analysis supporting figures 4 and 5.
+**ANCOMBC-2_data_analysis.R** contains the ANCOMBC-2 output data analysis supporting figures 5 and 6.
 
 ## Citation
 
