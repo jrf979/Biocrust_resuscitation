@@ -5,7 +5,7 @@
 This repository contains all code, workflows, and analysis scripts associated with:
 
 > **CITATION**  
-> *[Rainfall-induced microbial resuscitation reveals functional decoupling across biocrust succession]*  
+> *[Rainfall-induced microbial resuscitation reveals functional decoupling across biocrust succession. 2026. Raúl Román, Fernando T. Maestre, and Estelle Couradeau]*  
 > *Submitted to ISME Journal*, DOI: [XXXXXXX]
 
 This project examines rainfall-induced microbial resuscitation dynamics in **cyanobacteria-dominated biological soil crusts (biocrusts)** across successional stages. Intact biocrust microcosms representing **early (L-BSC)** and late **(D-BSC)** stages were subjected to a 3 mm simulated precipitation event and incubated under light and dark conditions for 6 hr. Translationally active cells were identified using **BONCAT-FACS**, and both active and total (bulk DNA) communities were characterized via **16S rRNA gene amplicon sequencing**.
